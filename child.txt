@@ -3,12 +3,14 @@
 <head>
 <style>
 div > p {
+
   background-color: yellow;vijay
 
 }
 </style>
 </head>
 <body>
+</body>
 
 
 <h2>Child Selector</h2>
