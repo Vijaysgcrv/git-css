@@ -3,13 +3,9 @@
 <head>
 <style>
 div > p {
-<<<<<<< HEAD
 
-  background-color: yellow;vijay
+  background-color: red;
 
-=======
-  background-color: yellow;
->>>>>>> rajiv
 }
 </style>
 </head>
