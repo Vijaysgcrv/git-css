@@ -3,14 +3,18 @@
 <head>
 <style>
 div > p {
+<<<<<<< HEAD
 
   background-color: yellow;vijay
 
+=======
+  background-color: yellow;
+>>>>>>> rajiv
 }
 </style>
 </head>
 <body>
-</body>
+<html>
 
 
 <h2>Child Selector</h2>
